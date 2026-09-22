@@ -1,0 +1,9 @@
+{
+  "name": "gold-taste-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix gold-taste-direct-main run dev",
+    "build": "npm --prefix gold-taste-direct-main run build",
+    "preview": "npm --prefix gold-taste-direct-main run preview"
+  }
+}
